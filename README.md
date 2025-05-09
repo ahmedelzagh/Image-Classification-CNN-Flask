@@ -54,3 +54,12 @@ Image-Classification-CNN-Flask
 - Navigate to the web application in your browser.
 - Use the upload form to select an image for classification.
 - Submit the form to receive the predicted label for the uploaded image.
+
+## Team
+
+- **Ahmed Hamdy Elzagh** | 21044
+- **Alaa Hamdy Abdelrahman** | 21059
+- **Abdullah Mohamed Elsayed** | 21071
+- **Omar Hesham Eldeeb** | 21097
+- **Ahmed Sobhy Elmesarea** | 21106
+- **Mohammed Elsayed Atia** | 21201
